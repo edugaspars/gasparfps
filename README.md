@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gasparfps
-- 👀 I’m interested in learning python and a lot of JavaScript things.
-- 🌱 I’m currently learning Java, Javascript...
-- 📫 @gaspar_fps on twitter
+- 👀 I’m studying data science & advanced analytics
+- 🌱 I’m currently learning Python and doing some small projects here
 
 <!---
 gasparfps/gasparfps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
